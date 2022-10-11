@@ -25,6 +25,6 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
-
+PrintArray(numbers1);
 FindNumber(numbers1, numbers2);
 PrintArray(numbers2);
